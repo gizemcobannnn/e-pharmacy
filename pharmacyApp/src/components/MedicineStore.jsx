@@ -1,7 +1,6 @@
 export default function MedicineStore() {
   return (
     <>
-      <h2 className="text-2xl font-semibold">Medicine Store</h2>
       <ul className="grid grid-cols-3 gap-x-2 gap-y-2 bg-white">
         <li className="bg-[#4e7f49]">
           <div className="flex flex-col">
